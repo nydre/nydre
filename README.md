@@ -5,7 +5,7 @@
     height="257" />
     <br/>
     
-**`Technically Inclined (I just know things)`**<br/>
+**`Software Engineer`**<br/>
 I'm an entry level developer, honing my skills to gain the ability of creating virtually anything from nothing.
 
 <p align="left">
