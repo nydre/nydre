@@ -6,7 +6,12 @@
     <br/>
     
 **`Software Developer (Java)`**<br/>
+
 I'm an entry level developer, honing my skills to gain the ability of creating virtually anything from nothing.
+<details>
+ <summary><h3>👨‍💻 Andre's Coding Journey</h3></summary>
+  In progress . . .
+</details>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andrel0/">
@@ -39,8 +44,3 @@ I'm an entry level developer, honing my skills to gain the ability of creating v
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nydre&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #
-
-<details>
- <summary><h3>👨‍💻 Andre's Coding Journey</h3></summary>
-  In progress . . .
-</details>
