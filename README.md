@@ -3,6 +3,7 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1360%2F1*zVnWJtyGOX_kUIDm6ccCfQ.gif&f=1&nofb=1&ipt=b8e616b68668b76eb1c55607200487562029dbba228700df641286f39a6337f0&ipo=images"
     width="408"
     height="257" />
+    
 **`Technically Inclined (I just know things)`**<br/>
 I'm an entry level developer, honing my skills to gain the ability of creating virtually anything from nothing.
 
