@@ -10,7 +10,6 @@
 I'm an entry level developer, honing my skills to gain the ability of creating virtually anything from nothing.
 
 <p align="left">
-<div id="badges">
   <a href="https://www.linkedin.com/in/andrel0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
@@ -21,9 +20,7 @@ I'm an entry level developer, honing my skills to gain the ability of creating v
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://github.com/nydre?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nydre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-</div>
+    <img title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nydre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 ---
