@@ -5,7 +5,7 @@
     height="257" />
     <br/>
     
-**`Software Engineer (Java \ Python)`**<br/>
+**`Software Engineer (Java)`**<br/>
 I'm an entry level developer, honing my skills to gain the ability of creating virtually anything from nothing.
 
 <p align="left">
