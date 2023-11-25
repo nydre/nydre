@@ -5,7 +5,7 @@
     height="257" />
     <br/>
     
-**`Software Developer (Java)`**<br/>
+**`Software Developer (Java)`**<br/> 
 
 I'm an entry level developer, honing my skills to gain the ability of creating virtually anything from nothing.
 <details>
@@ -13,29 +13,20 @@ I'm an entry level developer, honing my skills to gain the ability of creating v
   In progress . . .
 </details>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/andrel0/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://twitter.com/nydre_">
-    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://www.instagram.com/nydre_/">
-    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://github.com/nydre?tab=followers">
-    <img title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nydre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+  [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">](https://www.linkedin.com/in/andrel0/)
+  [<img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge">](https://twitter.com/nydre_)
+  [<img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge">](https://www.instagram.com/nydre_/)
+  [<img title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nydre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>](https://github.com/nydre?tab=followers)
 
 ---
 
 ### 🧰 Languages and Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>
-<br />
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>](https://www.oracle.com/java/)
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>](https://www.python.org/)
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="50" height="50"/>](https://www.jetbrains.com/idea/)
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>](https://github.com/)
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>](https://www.w3schools.com/html/html_intro.asp)
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>](https://www.jetbrains.com/pycharm/)
 
 #
 
@@ -45,4 +36,4 @@ I'm an entry level developer, honing my skills to gain the ability of creating v
 
 #
 
-<a href=""><img src="https://i.imgur.com/TAiyI6F.png" height="120px" title="Projects"/></a>
+<a href="Projects"><img src="https://i.imgur.com/TAiyI6F.png" height="120px" title="Projects"/></a>
