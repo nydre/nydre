@@ -45,4 +45,4 @@ I'm an entry level developer, honing my skills to gain the ability of creating v
 
 #
 
-<a href=""><img src="https://i.imgur.com/TAiyI6F.png" height="130px" title="Projects"/></a>
+<a href=""><img src="https://i.imgur.com/TAiyI6F.png" height="120px" title="Projects"/></a>
