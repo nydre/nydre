@@ -44,3 +44,5 @@ I'm an entry level developer, honing my skills to gain the ability of creating v
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nydre&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #
+
+<a href=""><img src="https://i.imgur.com/TAiyI6F.png" height="130px" title="Projects"/></a>
