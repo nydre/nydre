@@ -5,9 +5,15 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge">
+  <a href="https://www.linkedin.com/in/andrel0/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://twitter.com/nydre_">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://www.instagram.com/nydre_/">
+    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge">
+  </a>
 </div>
 
 ## 🏋🏾‍♂️ Andre Lopez
