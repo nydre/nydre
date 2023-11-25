@@ -40,4 +40,7 @@ I'm an entry level developer, honing my skills to gain the ability of creating v
 
 #
 
-
+<details>
+ <summary><h3>👨‍💻 Andre's Coding Journey</h3></summary>
+  In progress . . .
+</details>
