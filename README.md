@@ -27,6 +27,7 @@ I'm an entry level developer, honing my skills to gain the ability of creating v
   [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>](https://github.com/)
   [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>](https://www.w3schools.com/html/html_intro.asp)
   [<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>](https://www.jetbrains.com/pycharm/)
+  [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>](https://git-scm.com/)
 
 #
 
