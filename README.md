@@ -36,6 +36,5 @@ I'm an entry level developer, honing my skills to gain the ability of creating v
 #
 
 ### 🗺️ Navigation :
-[<img src="https://i.imgur.com/TAiyI6F.png" height="120px" title="Projects"/>](Projects)
 
 #
