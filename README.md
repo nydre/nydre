@@ -13,7 +13,8 @@ I'm an entry level developer, honing my skills to gain the ability of creating v
 
   [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">](https://www.linkedin.com/in/andrel0/)
   [<img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge">](https://twitter.com/nydre_)
-  [<img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge">](https://www.instagram.com/nydre_/)
+  [<img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge">](https://www.instagram.com/nydre_/)
+  [<img src="https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=red&style=for-the-badge">](https://www.youtube.com/@nydre_)
   [<img title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nydre?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>](https://github.com/nydre?tab=followers)
 
 ---
