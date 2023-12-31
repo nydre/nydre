@@ -4,7 +4,7 @@
     width="408"
     height="257" />
     
-### **`IT Apprentice / Software Developer (Java)`**
+### **`IT / Software Developer (Java)`**
 
 Entry level developer, honing my skills to gain the ability of creating virtually anything from nothing.
 <details><summary><h3>👨‍💻 Andre's Coding Journey</h3></summary>
