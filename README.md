@@ -11,7 +11,7 @@ Entry level developer, honing my skills to gain the ability of creating virtuall
   In progress . . .
 </details>
 
-  [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">](https://www.linkedin.com/in/nydre/)
+  [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">](https://www.linkedin.com/in/andrel0/)
   [<img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge">](https://twitter.com/nydre_)
   [<img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge">](https://www.instagram.com/nydre_/)
   [<img src="https://img.shields.io/badge/YouTube-white?logo=youtube&logoColor=red&style=for-the-badge">](https://www.youtube.com/@nydre_)
